@@ -2,7 +2,7 @@
 This was our project for a 12-hour hackathon. It's a version of Wii Tanks but with a twist. Each player has limited ammo and if you miss a shot, your opponent gets your shell. Basically dodge ball rules. We learned a lot, had a great time, and ended up winning one of the prizes. 
 
 ## The Team 
-* Kalen Arendt, team Sensei (GitHub: Kalen Arendt) 
+* Kalen Arendt, team Sensei (GitHub: KalenArendt) 
 * Edmond Wong, the other guy who knew what he was doing (GitHub: wonge1)
 * Nolan Plett, game inventor (GitHub: nolanplett)
 * Kevin Derkson, sound effects engineer (GitHub: 123kevyd)
